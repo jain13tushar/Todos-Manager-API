@@ -17,7 +17,7 @@ Step 5: Git can be downloaded from [here](https://git-scm.com/download/win)
 1. To build End-to-End Production Ready REST API.
 2. To create REST API with Spring Boot and MongoDB database.
 3. To handle exceptions and create Custom Exceptions.
-4. To filter the records by writing JPA finder/query methods.
+4. To add Swagger for API Documentation.
 5. To connect Spring Boot Application with MongoDB database.
 6. To create finder methods using MongoDB database.
 7. To perform the database (CRUD) operations with MongoRepository.
