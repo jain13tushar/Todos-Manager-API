@@ -2,6 +2,8 @@ package com.selfproject.springbootmongodb.controller;
 
 import java.util.List;
 
+import javax.validation.ConstraintViolationException;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -16,8 +18,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.selfproject.springbootmongodb.exception.TodoCollectionException;
 import com.selfproject.springbootmongodb.model.TodoDTO;
 import com.selfproject.springbootmongodb.service.TodoService;
-
-import jakarta.validation.ConstraintViolationException;
 
 @RestController
 public class TodoController {

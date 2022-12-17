@@ -2,12 +2,12 @@ package com.selfproject.springbootmongodb.service;
 
 import java.util.List;
 
+import javax.validation.ConstraintViolationException;
+
 import org.springframework.stereotype.Service;
 
 import com.selfproject.springbootmongodb.exception.TodoCollectionException;
 import com.selfproject.springbootmongodb.model.TodoDTO;
-
-import jakarta.validation.ConstraintViolationException;
 
 @Service
 public interface TodoService {
