@@ -6,7 +6,7 @@ Step 1: Download JDK version 8 from [here](https://www.oracle.com/in/java/techno
 
 Step 2: Download Spring Tools 4 for Eclipse from [here](https://spring.io/tools)
 
-Step 3: MySQL can be downloaded from [here](https://dev.mysql.com/downloads/windows/installer/8.0.html)
+Step 3: MongoDB can be downloaded from [here](https://www.mongodb.com/try/download/community)
 
 Step 4: Postman can be downloaded from [here](https://www.postman.com/downloads/)
 
